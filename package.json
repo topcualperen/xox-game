@@ -2,6 +2,10 @@
   "name": "xox-game",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
